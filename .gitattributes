@@ -1,0 +1,4 @@
+census_tracts_CA_2023.geojson filter=lfs diff=lfs merge=lfs -text
+california_housing_price_changes_2022_2023.html filter=lfs diff=lfs merge=lfs -text
+census_tracts_CA_2022.geojson filter=lfs diff=lfs merge=lfs -text
+california_data.ipynb filter=lfs diff=lfs merge=lfs -text
